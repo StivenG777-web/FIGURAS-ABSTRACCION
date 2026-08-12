@@ -1,0 +1,20 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de salida de compilación
+/bin/
+/lib/
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+*.swp
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
